@@ -1,0 +1,18 @@
+.manage-route-container {
+    padding: 20px;
+}
+
+.manage-route-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.manage-route-table th, .manage-route-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.manage-route-table th {
+    background-color: #f2f2f2;
+    text-align: left;
+}

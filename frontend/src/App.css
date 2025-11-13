@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+}
+
+.main-content {
+  flex-grow: 1;
+}
+
+.chat-widget {
+  width: 300px;
+  height: 100vh;
+}
